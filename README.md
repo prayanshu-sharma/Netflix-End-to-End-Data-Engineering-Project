@@ -16,9 +16,3 @@ Configure a ForEach Activity to iterate over the lookup output using:
 @activity('Lookup').output.value
 Enable sequential execution if required.
 Within the ForEach loop, use a Copy Activity to fetch and load each file individually into the Data Lake.
-
-
-
-
-
-If you want, I can also rewrite this in one-paragraph form, resume-ready points, or interview explanation format.Do you like this personality?
